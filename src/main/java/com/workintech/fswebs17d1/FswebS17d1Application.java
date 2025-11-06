@@ -70,7 +70,7 @@ public class FswebS17d1Application {
             System.out.println("("+sample.getId()+") "+sample.getName());
 
             System.out.println("Update Animal");
-            
+
 
         };
     }
